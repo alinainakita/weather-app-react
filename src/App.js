@@ -9,8 +9,8 @@ export default function App() {
 
 <footer>
 
-<a href="https://github.com/alinainakita" target="_blank" rel="noreferrer" >Open-source code</a> by
-{""} <a href="https://www.linkedin.com/in/alina-varvarici/" target="_blank" rel="noreferrer" > Alina Varvarici</a>
+<a className="gitLink" href="https://github.com/alinainakita" target="_blank" rel="noreferrer" >Open-source code</a> by
+{""} <a className="LinkedInLink" href="https://www.linkedin.com/in/alina-varvarici/" target="_blank" rel="noreferrer" > Alina Varvarici</a>
     </footer>
     </div>
   );
